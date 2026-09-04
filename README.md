@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/saleena-product-designer-banner-compact.png" alt="Saleena — Product Designer" width="43.1%">
+  <img src="assets/saleena-product-designer-banner-medium.png" alt="Saleena — Product Designer" width="46.1%">
 </p>
 
 <p align="center">
