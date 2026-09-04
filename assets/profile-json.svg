@@ -2,25 +2,23 @@
   <title id="title">Profile details in JSON</title>
   <desc id="description">Product designer profile, approach, setup, interests, and current obsession.</desc>
   <rect width="398.5" height="288" rx="12" fill="#161b22"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500">
-    <text x="16" y="16" fill="#8b949e">{</text>
-    <text x="30" y="30"><tspan fill="#ffa657">"role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"product designer"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="30" y="44"><tspan fill="#ffa657">"approach"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
-    <text x="44" y="58"><tspan fill="#a5d6ff">"tool-agnostic"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"accessibility"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="44" y="72"><tspan fill="#a5d6ff">"semantic"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"responsive"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"motion"</tspan></text>
-    <text x="30" y="86"><tspan fill="#c9d1d9">]</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="30" y="100"><tspan fill="#ffa657">"setup"</tspan><tspan fill="#8b949e">: {</tspan></text>
-    <text x="44" y="114"><tspan fill="#ffa657">"hardware"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"Mac · M1 Max · 64 GB RAM"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="44" y="128"><tspan fill="#ffa657">"software"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
-    <text x="58" y="142"><tspan fill="#a5d6ff">"Figma"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Cursor"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="58" y="156"><tspan fill="#a5d6ff">"Codex"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Supacode"</tspan></text>
-    <text x="44" y="170" fill="#c9d1d9">]</text>
-    <text x="30" y="184" fill="#8b949e">},</text>
-    <text x="30" y="198"><tspan fill="#ffa657">"offline"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
-    <text x="44" y="212"><tspan fill="#a5d6ff">"partying"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"F1"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="44" y="226"><tspan fill="#a5d6ff">"grilling"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"cameras"</tspan></text>
-    <text x="30" y="240"><tspan fill="#c9d1d9">]</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="30" y="254"><tspan fill="#ffa657">"current_obsession"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"learning to DJ"</tspan></text>
-    <text x="16" y="268" fill="#8b949e">}</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">
+    <text x="16" y="18" fill="#8b949e">{</text>
+    <text x="30" y="34"><tspan fill="#ffa657">"role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"product designer"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="30" y="50"><tspan fill="#ffa657">"approach"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
+    <text x="44" y="66"><tspan fill="#a5d6ff">"tool-agnostic"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"accessibility"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="44" y="82"><tspan fill="#a5d6ff">"semantic"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"responsive"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"motion"</tspan></text>
+    <text x="30" y="98"><tspan fill="#c9d1d9">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="30" y="114"><tspan fill="#ffa657">"setup"</tspan><tspan fill="#8b949e">: {</tspan></text>
+    <text x="44" y="130"><tspan fill="#ffa657">"hardware"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"Mac · M1 Max · 64 GB RAM"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="44" y="146"><tspan fill="#ffa657">"software"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
+    <text x="58" y="162"><tspan fill="#a5d6ff">"Figma"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Cursor"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Codex"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Supacode"</tspan></text>
+    <text x="44" y="178" fill="#c9d1d9">]</text>
+    <text x="30" y="194" fill="#8b949e">},</text>
+    <text x="30" y="210"><tspan fill="#ffa657">"offline"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">[</tspan></text>
+    <text x="44" y="226"><tspan fill="#a5d6ff">"partying"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"F1"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"grilling"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"cameras"</tspan></text>
+    <text x="30" y="242"><tspan fill="#c9d1d9">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="30" y="258"><tspan fill="#ffa657">"current_obsession"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"learning to DJ"</tspan></text>
+    <text x="16" y="274" fill="#8b949e">}</text>
   </g>
 </svg>
