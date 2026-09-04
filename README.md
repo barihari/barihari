@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://saleena.design/"><img src="assets/portfolio-button-square.svg" alt="Visit My Portfolio" width="187"></a>
+  <a href="https://saleena.design/"><img src="assets/portfolio-button-square.svg?v=2" alt="Visit My Portfolio" width="187"></a>
 </p>
