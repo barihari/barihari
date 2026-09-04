@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="428" height="288" viewBox="0 0 428 288" role="img" aria-labelledby="title description">
   <title id="title">Profile details in JSON</title>
-  <desc id="description">Product designer profile, approach, setup, interests, and current obsession.</desc>
+  <desc id="description">Creative profile, approach, setup, interests, and current obsession.</desc>
   <rect width="398.5" height="288" rx="12" fill="#030c1b"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">
     <text x="16" y="18" fill="#e0dc90">{</text>
-    <text x="30" y="34"><tspan fill="#fc60a1">"role"</tspan><tspan fill="#d0d5e2">: </tspan><tspan fill="#9cdcfe">"product designer"</tspan><tspan fill="#d0d5e2">,</tspan></text>
+    <text x="30" y="34"><tspan fill="#fc60a1">"role"</tspan><tspan fill="#d0d5e2">: </tspan><tspan fill="#9cdcfe">"creative"</tspan><tspan fill="#d0d5e2">,</tspan></text>
     <text x="30" y="50"><tspan fill="#fc60a1">"approach"</tspan><tspan fill="#d0d5e2">: </tspan><tspan fill="#e0dc90">[</tspan></text>
     <text x="44" y="66"><tspan fill="#9cdcfe">"tool-agnostic"</tspan><tspan fill="#d0d5e2">, </tspan><tspan fill="#9cdcfe">"accessibility"</tspan><tspan fill="#d0d5e2">,</tspan></text>
     <text x="44" y="82"><tspan fill="#9cdcfe">"semantic"</tspan><tspan fill="#d0d5e2">, </tspan><tspan fill="#9cdcfe">"responsive"</tspan><tspan fill="#d0d5e2">, </tspan><tspan fill="#9cdcfe">"motion"</tspan></text>
